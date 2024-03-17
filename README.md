@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Framework and Node.JS**
 
-- 👨‍💻 All of my projects are available at [yogesh-singh-4343y/details/projects/](https://www.linkedin.com/in/yogesh-singh-4343y/details/projects/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yogesh-singh-4343y/]
 
 - 💬 Ask me about **React**
 
